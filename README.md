@@ -1,0 +1,2 @@
+# KuroinuSlotPlugin
+スロットpl

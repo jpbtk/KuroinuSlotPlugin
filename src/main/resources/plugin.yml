@@ -1,0 +1,9 @@
+name: KuroinuSlotPlugin_Test
+version: '${project.version}'
+main: com.kuroinusaba.kuroinuslotplugin_test.KuroinuSlotPlugin_Test
+api-version: '1.19'
+commands:
+  kuroinuslot:
+    description: kuroinuslotplugin_test
+    aliases: kslot
+softdepend: [PlaceholderAPI]
